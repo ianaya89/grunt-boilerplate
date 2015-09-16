@@ -36,8 +36,3 @@ Grunt boilerplate to get a happier frontend workflow.
 - [`grunt-contrig-jshint`](https://github.com/gruntjs/grunt-contrib-jshint)
 - [`jshint-stylish`](https://github.com/sindresorhus/jshint-stylish)
 - [`grunt-contrib-watch`](https://github.com/gruntjs/grunt-contrib-watch)
-
-
----
-
-Powered by [Ignacio Anaya](http://twitter.com/ianaya89).
